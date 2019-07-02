@@ -143,7 +143,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/melsuhl-common/proprietary/lib/libtuning_aec_ov13850_798m_night.so:system/lib/libtuning_aec_ov13850_798m_night.so \
     vendor/htc/melsuhl-common/proprietary/lib/libtuning_aec_ov13850_798m_night_16_9.so:system/lib/libtuning_aec_ov13850_798m_night_16_9.so \
     vendor/htc/melsuhl-common/proprietary/lib/libtuning_aec_ov13850_798m_qtr.so:system/lib/libtuning_aec_ov13850_798m_qtr.so \
-    vendor/htc/melsuhl-common/proprietary/lib/libtuning_aec_ov13850_798m_qtr_16_9.so:system/lib/libtuning_aec_ov13850_798m_qtr_16_9.so \	
+    vendor/htc/melsuhl-common/proprietary/lib/libtuning_aec_ov13850_798m_qtr_16_9.so:system/lib/libtuning_aec_ov13850_798m_qtr_16_9.so \
     vendor/htc/melsuhl-common/proprietary/lib/libtuning_aec_ov13850_798m_video.so:system/lib/libtuning_aec_ov13850_798m_video.so \
     vendor/htc/melsuhl-common/proprietary/lib/libtuning_aec_ov13850_798m_video_60fps.so:system/lib/libtuning_aec_ov13850_798m_video_60fps.so \
     vendor/htc/melsuhl-common/proprietary/lib/libtuning_aec_ov13850_798m_videoHFR.so:system/lib/libtuning_aec_ov13850_798m_videoHFR.so \
@@ -153,7 +153,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/melsuhl-common/proprietary/lib/libtuning_aec_s5k5e_fov65_hdr.so:system/lib/libtuning_aec_s5k5e_fov65_hdr.so \
     vendor/htc/melsuhl-common/proprietary/lib/libtuning_aec_s5k5e_fov65_video.so:system/lib/libtuning_aec_s5k5e_fov65_video.so \
     vendor/htc/melsuhl-common/proprietary/lib/libtuning_aec_s5k5e_fov65_zsl.so:system/lib/libtuning_aec_s5k5e_fov65_zsl.so \
-    vendor/htc/melsuhl-common/proprietary/lib/libtuning_aec_s5k5e_hdr.so:system/lib/libtuning_aec_s5k5e_hdr.so \	
+    vendor/htc/melsuhl-common/proprietary/lib/libtuning_aec_s5k5e_hdr.so:system/lib/libtuning_aec_s5k5e_hdr.so \
     vendor/htc/melsuhl-common/proprietary/lib/libtuning_aec_s5k5e_video.so:system/lib/libtuning_aec_s5k5e_video.so \
     vendor/htc/melsuhl-common/proprietary/lib/libtuning_aec_s5k5e_zsl.so:system/lib/libtuning_aec_s5k5e_zsl.so \
     vendor/htc/melsuhl-common/proprietary/lib/libtuning_af.so:system/lib/libtuning_af.so \
@@ -226,7 +226,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/melsuhl-common/proprietary/vendor/lib/libchromatix_ov13850_798m_qtr.so:system/vendor/lib/libchromatix_ov13850_798m_qtr.so \
     vendor/htc/melsuhl-common/proprietary/vendor/lib/libchromatix_ov13850_798m_zoe.so:system/vendor/lib/libchromatix_ov13850_798m_zoe.so \
     vendor/htc/melsuhl-common/proprietary/vendor/lib/libchromatix_s5k5e_common.so:system/vendor/lib/libchromatix_s5k5e_common.so \
-    vendor/htc/melsuhl-common/proprietary/vendor/lib/libchromatix_s5k5e_default_video.so:system/vendor/lib/libchromatix_s5k5e_default_video.so \	
+    vendor/htc/melsuhl-common/proprietary/vendor/lib/libchromatix_s5k5e_default_video.so:system/vendor/lib/libchromatix_s5k5e_default_video.so \
     vendor/htc/melsuhl-common/proprietary/vendor/lib/libchromatix_s5k5e_fov65_common.so:system/vendor/lib/libchromatix_s5k5e_fov65_common.so \
     vendor/htc/melsuhl-common/proprietary/vendor/lib/libchromatix_s5k5e_fov65_default_video.so:system/vendor/lib/libchromatix_s5k5e_fov65_default_video.so \
     vendor/htc/melsuhl-common/proprietary/vendor/lib/libchromatix_s5k5e_fov65_hdr.so:system/vendor/lib/libchromatix_s5k5e_fov65_hdr.so \
@@ -311,7 +311,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/melsuhl-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/htc/melsuhl-common/proprietary/vendor/lib/soundfx/libqcbassboost.so:system/vendor/lib/soundfx/libqcbassboost.so \
     vendor/htc/melsuhl-common/proprietary/vendor/lib/soundfx/libqcreverb.so:system/vendor/lib/soundfx/libqcreverb.so \
-    vendor/htc/melsuhl-common/proprietary/vendor/lib/soundfx/libqcvirt.so:system/vendor/lib/soundfx/libqcvirt.so
+    vendor/htc/melsuhl-common/proprietary/vendor/lib/soundfx/libqcvirt.so:system/vendor/lib/soundfx/libqcvirt.so \
 
 PRODUCT_PACKAGES += \
     libtime_genoff \
